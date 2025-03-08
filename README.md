@@ -1,6 +1,5 @@
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=kenya-rodriguez201/MSF-Pr-ctica-1)
-# MSF-Pr-ctica-1-
-Práctica 1: Diseño de controladores 
+
 # Modelado de Sistemas Fisiológicos. Práctica 1: Diseño de controladores [Rodriguez20213058]
 
 ## Autor
